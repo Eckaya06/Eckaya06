@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes.</h1>
 
 <p align="center">
-  <img src="https://github.com/Eckaya06/Enes-Cetinkaya/blob/main/git_res3.png" alt="Rust, Python ve Java" width="500" />
+  <img src="https://github.com/Eckaya06/Eckaya06/blob/main/git_res3.png" alt="Rust, Python ve Java" width="500" />
 </p>
 <p align="center">Rust, Python ve Java öğreniyor.</p>
 
